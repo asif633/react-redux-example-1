@@ -15,5 +15,6 @@ ActionCreator return Action
     payload: ,
 }
 ```
+Middleware intercepts Actions
 
 
