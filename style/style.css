@@ -43,3 +43,14 @@ td:first-of-type, td:first-of-type > div{
     height: 200px;
     width: 250px;
 }
+
+form a {
+    margin-left: 10px;
+}
+.navbarColor01{
+    color: black;
+}
+
+nav > .nav-link {
+    margin-left: 10px;
+}
